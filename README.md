@@ -6,7 +6,7 @@
 ## Installing
 
 ```shell
-$ composer require ruoxiao-zh/easydouyin -vvv
+$ composer require zys5210/easydouyin -vvv
 ```
 
 ## Usage
