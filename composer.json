@@ -20,7 +20,7 @@
     },
     "autoload": {
         "psr-4": {
-            "RuoxiaoZh\\Easydouyin\\": "src"
+            "Douyin\\Open\\": "src"
         }
     }
 }
